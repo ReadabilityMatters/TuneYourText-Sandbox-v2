@@ -1,2 +1,2 @@
-# TuneYoutTextv2
+# TuneYourTextv2
 Updated colors and contact form
